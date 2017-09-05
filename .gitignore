@@ -20,5 +20,6 @@ local.properties
 
 .gradle
 build/
+captures/
 
 .DS_Store
